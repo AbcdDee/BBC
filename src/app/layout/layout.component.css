@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #1b681a;
+  }
+  
+  .navbar-brand {
+    margin-right: auto;
+    color: darkturquoise;
+  }
+  
+  .navbar-items {
+    display: flex;
+}
+
+.nav-item {
+    margin-right: 15px;
+      color: aliceblue;
+  }
+  
+  .search-bar {
+    display: flex;
+  }
+  
+  .search-input {
+    margin-right: 10px;
+  }
+  
